@@ -1,4 +1,9 @@
-﻿using System;
+﻿/**
+* Building of JSON-report were used from the follwing repository:
+* https://github.com/Recognos/Metrics.NET.ElasticSearch
+**/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
