@@ -1,5 +1,5 @@
 ﻿/**
-* Building of JSON-report were used from the follwing repository:
+* Building of JSON-report were copied from the following repository:
 * https://github.com/Recognos/Metrics.NET.ElasticSearch
 **/
 
