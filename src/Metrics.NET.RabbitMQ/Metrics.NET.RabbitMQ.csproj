@@ -29,6 +29,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Release\Metrics.RabbitMQ.XML</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Metrics, Version=0.4.8.0, Culture=neutral, processorArchitecture=MSIL">

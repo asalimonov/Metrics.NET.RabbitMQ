@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Metrics.RabbitMQ</name>
+    </assembly>
+    <members>
+        <member name="P:Metrics.RabbitMQ.RabbitMQReportsConfig.ConnectionTimeout">
+                    Connection timeout in seconds, recomnds to use 8-20 seconds
+                    *
+        </member>
+    </members>
+</doc>
