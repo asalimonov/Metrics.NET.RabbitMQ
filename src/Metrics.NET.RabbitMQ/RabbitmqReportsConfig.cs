@@ -40,7 +40,7 @@ namespace Metrics.RabbitMQ
             ExchangeDurable = false;
             ExchangeAutoDelete = true;
             ExchangePassive = false;
-            RoutingKey = "metics";
+            RoutingKey = "metrics";
             ReplaceDotsOnFieldNames = false;
             VirtualHost = "/";
             ConnectionTimeout = 10;

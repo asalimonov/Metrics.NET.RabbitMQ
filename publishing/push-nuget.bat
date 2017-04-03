@@ -1,1 +1,1 @@
-..\.nuget\nuget.exe push Metrics.NET.RabbitMQ.1.0.0.nupkg -Source https://www.nuget.org
+..\.nuget\nuget.exe push Metrics.NET.RabbitMQ.1.0.1.nupkg -Source https://www.nuget.org

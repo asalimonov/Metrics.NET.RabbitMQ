@@ -22,4 +22,4 @@ Example:
 
                     }, TimeSpan.FromSeconds(3)));
 ```
-Metrics.NET sends all pre-registered CLR counters and internal metics to RabbitMQ with the default exchange type "topic" and it uses the default exchanege "metics" with "metics" routing key.
+Metrics.NET sends all pre-registered CLR counters and internal metics to RabbitMQ with the default exchange type "topic" and it uses the default exchanege "metrics" with "metrics" routing key.
