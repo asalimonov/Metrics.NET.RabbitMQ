@@ -21,6 +21,7 @@ namespace Metrics.RabbitMQ
         public bool ExchangePassive { get; set; }
         public RMQ.SslOption Ssl { get; set; }
         public string QueueName { get; set; }
+
         /**
         Connection timeout in seconds, recomnds to use 8-20 seconds
         **/
